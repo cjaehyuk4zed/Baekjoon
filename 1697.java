@@ -65,3 +65,8 @@ public class Main {
     }
     
 }
+
+// Example input values
+/*
+5 17
+*/
